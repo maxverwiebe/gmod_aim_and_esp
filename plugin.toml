@@ -1,0 +1,8 @@
+[plugin]
+name = "gmod_aim_and_esp"
+author = "Max"
+version = "0.1.0"
+language = "lua"
+version_required = "1.2.0"
+
+[settings]
